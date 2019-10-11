@@ -1,2 +1,2 @@
-# Programacion_de_Computadores
-Proyecto Final de la materia Programación de Computadores
+# Programación de Computadores
+Proyecto Final de la materia Programación de Computadores 2013-2
